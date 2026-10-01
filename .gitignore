@@ -1,0 +1,7 @@
+/vendor/**/*
+**/*.lock
+**/*.env
+**/*.pem
+**/*.key
+**/*.private_key
+**/TODO.*
